@@ -23,7 +23,7 @@ and open the template in the editor.
 	    <div class="row container">
 		<div id="leftSide" class="col-sm-9">
 		    <h4>ABOUT ME</h4>
-		    <p>Studying computer science is not about getting a degree; it’s about learning a tool that I can use to solve many different problems in life. Therefore, I decided to go to the U.S to pursuit Bachelor degree in Computer Science at San Jose State University. I have had a lasting question on how I can apply the knowledge accumulated during the years in college to solve problems. I’m self-motivated and always eager to learn new things from other people. I’m inspired by many successful startups like Watsi and Wikipedia on how meaningful their products are to the world.
+		    <p>Studying computer science is not about getting a degree; it’s about learning a tool that I can use to solve many different problems in life. Therefore, I decided to go to the U.S to pursue Bachelor degree in Computer Science at San Jose State University. I have had a lasting question on how I can apply the knowledge accumulated during the years in college to solve problems. I’m self-motivated and always eager to learn new things from other people. I’m inspired by many successful startups like Watsi and Wikipedia on how meaningful their products are to the world.
 		    </p>
 
 		    <hr>
