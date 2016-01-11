@@ -109,7 +109,9 @@ function loadProjects() {
 	divRow.append(colSm9);
 
 	$('#projects').append(divRow);
-	$('#projects').append($('<hr>'));
+        if (i !== projects.length - 1) {
+            $('#projects').append($('<hr>'));
+        }
     }
 }
 
