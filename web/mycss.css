@@ -1,0 +1,131 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : Nov 15, 2015, 3:37:00 PM
+    Author     : sonnguyen
+*/
+h4 {
+    color: orangered;
+    font-weight: bold;
+    font-family: fantasy;
+}
+
+hr {
+    border-style: inset;
+    border-width: 2px;
+    /* width: 75%; */
+}
+
+#name {
+    text-align: center;
+    color: orangered;
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+#school {
+    font-size: large;
+}
+
+#courseList {
+    font-size: medium;
+    padding-left: 10px;
+}
+
+footer {
+    padding-left: 20px;
+    font-size: small;
+}
+
+#schoolYear {
+    font-size: x-large;
+    color: #2e6da4;
+}
+
+#profileImage {
+    width: 160px;
+    height: auto;
+    z-index: 1;
+    position: absolute;
+    top: 10px;
+    visibility: hidden;
+}
+
+#programmingLanguage {
+    text-align: center
+}
+
+#programmingLanguage img {
+    width: 100px;
+    height: 100px;
+}
+
+.first {
+    margin-left: 220px;
+}
+
+.popover {
+    box-shadow: 5px 5px 5px #888888;
+    font-size: small;
+}
+
+.popover-title {
+    color: #0a0a0a;
+    font-size: medium;
+    text-align: center;
+    background-color: #fafafa;
+}
+
+.popover-content {
+    color: #3a3a3a;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.btn {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+#contactInfo img {
+    width: 50px;
+    height: 50px;
+}
+
+#contactInfo a:hover {
+    text-decoration: none
+}
+
+#contactInfo img:first-of-type {
+    width: 100px;
+    height: 100px;
+}
+
+#contactInfo:first-child {
+    text-align: center
+}
+
+#contactInfo a:first-of-type {
+    text-align: center
+}
+
+#projects img {
+    width: 150px;
+    height: auto;
+    position: relative;
+}
+
+#projects .row {
+    margin: 0px;
+}
+
+#projects hr {
+    border: none;border-bottom:
+	1px solid lightsteelblue;
+    width: 80%;
+    margin-left: 10px;
+}
