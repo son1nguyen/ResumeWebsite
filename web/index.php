@@ -51,6 +51,23 @@ and open the template in the editor.
 		    <hr>
 
 		    <h4>EXPERIENCES</h4>
+            <div id="experiences" class="row">
+            <div class="col-md-3">
+                <p><strong>QA Intern at Virtual Instruments Inc</strong><br>06/2016 – 12/2016</p>
+
+            </div>
+            <div class="col-md-9">
+                <ul>
+                <li>Directly responsible individual for quality for NAS product and new features of Virtual Wisdom 5.x platforms</li>
+                    li>Designed, implemented and automated nightly REST test cases for NAS Probe using Java, JSON and TestNG</li>
+                <li>Collaborated with another intern to maintain existing test automation frameworks and troubleshoot failures across
+                    multiple services</li>
+                <li>Worked in Linux environment to debug Virtual Wisdom Platform and report current product quality including bug
+                    reports and test status</li>
+                </ul>
+            </div>
+            </div>
+            <br/>
 		    <div id="experiences" class="row">
 			<div class="col-md-3">
 			    <p><strong>Full-stack Engineering Intern at PymWym</strong><br>11/2015 - current</p>
