@@ -59,7 +59,7 @@ and open the template in the editor.
             <div class="col-md-9">
                 <ul>
                 <li>Directly responsible individual for quality for NAS product and new features of Virtual Wisdom 5.x platforms</li>
-                    li>Designed, implemented and automated nightly REST test cases for NAS Probe using Java, JSON and TestNG</li>
+                <li>Designed, implemented and automated nightly REST test cases for NAS Probe using Java, JSON and TestNG</li>
                 <li>Collaborated with another intern to maintain existing test automation frameworks and troubleshoot failures across
                     multiple services</li>
                 <li>Worked in Linux environment to debug Virtual Wisdom Platform and report current product quality including bug
@@ -70,7 +70,7 @@ and open the template in the editor.
             <br/>
 		    <div id="experiences" class="row">
 			<div class="col-md-3">
-			    <p><strong>Full-stack Engineering Intern at PymWym</strong><br>11/2015 - current</p>
+			    <p><strong>Full-stack Engineering Intern at PymWym</strong><br>11/2015 - 01/2016</p>
 
 			</div>
 			<div class="col-md-9">
@@ -83,7 +83,7 @@ and open the template in the editor.
 		    <br/>
 		    <div id="experiences" class="row">
 			<div class="col-md-3">
-			    <p><strong>Teaching Assistant at San Jose State University</strong><br>9/2015 - current</p>
+			    <p><strong>Teaching Assistant at San Jose State University</strong><br>9/2015 - 12/2016</p>
 
 			</div>
 			<div class="col-md-9">
@@ -125,25 +125,21 @@ and open the template in the editor.
 			    <a href="tel:408-478-1500">
 				<img src="img/cellphone.png" style="width: 50px; height: 50px" />
 			    </a>
-			    <a href="tel:408-478-1500">408-478-1500</a>
 			</p>
 			<p>
 			    <a href="mailto:sonngnam@gmail.com">
 				<img src="img/email.png" style="width: 50px; height: 50px" />
 			    </a>
-			    <a href="mailto:sonngnam@gmail.com">sonngnam@gmail.com</a>
 			</p>
 			<p>
 			    <a href="https://www.linkedin.com/in/sonngnam">
 				<img src="img/linkedin.png" style="width: 50px; height: 50px" />
 			    </a>
-			    <a href="https://www.linkedin.com/in/sonngnam">Linkedin</a>
 			</p>
 			<p>
 			    <a href="https://github.com/son1nguyen">
 				<img src="img/github.png" style="width: 50px; height: 50px" />
 			    </a>
-			    <a href="https://github.com/son1nguyen">GitHub</a>
 			</p>
 		    </div>
 
